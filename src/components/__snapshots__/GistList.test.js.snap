@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GistList should render correctly 1`] = `
+<div>
+  <div>
+    <input
+      type="button"
+      value="prev"
+    />
+    <input
+      type="button"
+      value="next"
+    />
+    <ul
+      class="list-gist"
+    >
+      <li
+        class="list-item-gist"
+      >
+        <div>
+          child 1
+        </div>
+      </li>
+      <li
+        class="list-item-gist"
+      >
+        <div>
+          child 2
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+`;

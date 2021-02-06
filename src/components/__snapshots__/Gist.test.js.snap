@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Gist should render correctly 1`] = `
+<div
+  class="gist"
+>
+  <a
+    class="gist-description"
+    href="some-url"
+    rel="noopener noreferrer"
+    target="_blank"
+  >
+    some description
+  </a>
+  <ul
+    class="list-filetype"
+  >
+    <li
+      class="list-item-filetype"
+    >
+      <div
+        class="badge"
+      >
+        type 1
+      </div>
+    </li>
+    <li
+      class="list-item-filetype"
+    >
+      <div
+        class="badge"
+      >
+        type 2
+      </div>
+    </li>
+  </ul>
+  <ul
+    class="list-fork"
+  />
+</div>
+`;

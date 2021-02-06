@@ -1,0 +1,16 @@
+body {
+  background-color: #282c34;
+  color: white;
+  margin: 1em;
+}
+
+a {
+  color: white;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: normal;
+}

@@ -1,0 +1,18 @@
+.gist .list-filetype {
+    display: flex;
+    flex-direction: row;
+}
+
+.gist .list-item-filetype {
+    display: inline-flex;
+    margin: 3px;
+}
+
+.gist .list-fork {
+    display: flex;
+    flex-direction: column;
+}
+
+.gist .list-item-fork {
+    display: inline-flex;
+}

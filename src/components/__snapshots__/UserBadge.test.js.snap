@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserBadge should render correctly 1`] = `
+<div>
+  <div
+    class="user-badge"
+  >
+    <img
+      alt="my username"
+      src="http://url-to-avatar"
+    />
+     
+    my username
+  </div>
+</div>
+`;
